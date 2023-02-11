@@ -17,7 +17,7 @@ Wij hebben gebruikt gemaakt van de Heart Attack Analysis & Predictions dataset, 
 
 ## Previews
 
-![img1](https://github.com/FrankGIT-1/Analytical-Computing/blob/main/previews/comput-1.jpg)
-![img2](https://github.com/FrankGIT-1/Analytical-Computing/blob/main/previews/comput-2.jpg)
-![img3](https://github.com/FrankGIT-1/Analytical-Computing/blob/main/previews/comput-3.jpg)
-![img4](https://github.com/FrankGIT-1/Analytical-Computing/blob/main/previews/comput-4.jpg)
+![img1](https://github.com/FrankGIT-1/Analytical-Computing/blob/main/previews/comput-1.JPG)
+![img2](https://github.com/FrankGIT-1/Analytical-Computing/blob/main/previews/comput-2.JPG)
+![img3](https://github.com/FrankGIT-1/Analytical-Computing/blob/main/previews/comput-3.JPG)
+![img4](https://github.com/FrankGIT-1/Analytical-Computing/blob/main/previews/comput-4.JPG)
